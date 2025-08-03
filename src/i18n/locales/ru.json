@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "Профессиональная платформа видеочата",
+    "description": "Общайтесь с красивыми моделями со всего мира"
+  },
+  "navigation": {
+    "home": "Главная",
+    "models": "Модели",
+    "favorites": "Избранное",
+    "history": "История",
+    "coins": "Монеты",
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "support": "Поддержка"
+  },
+  "auth": {
+    "login": "Войти",
+    "register": "Регистрация",
+    "logout": "Выйти",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "confirmPassword": "Подтвердить пароль",
+    "forgotPassword": "Забыли пароль?",
+    "rememberMe": "Запомнить меня",
+    "createAccount": "Создать новый аккаунт",
+    "alreadyHaveAccount": "У вас уже есть аккаунт?",
+    "dontHaveAccount": "У вас нет аккаунта?"
+  },
+  "models": {
+    "online": "В сети",
+    "offline": "Не в сети",
+    "pricePerMinute": "Цена/минута",
+    "rating": "Рейтинг",
+    "reviews": "Отзывы",
+    "languages": "Языки",
+    "country": "Страна",
+    "age": "Возраст",
+    "startCall": "Начать звонок",
+    "addToFavorites": "Добавить в избранное",
+    "sendMessage": "Отправить сообщение",
+    "viewProfile": "Посмотреть профиль"
+  },
+  "call": {
+    "connecting": "Подключение...",
+    "connected": "Подключено",
+    "duration": "Продолжительность",
+    "cost": "Стоимость",
+    "balance": "Баланс",
+    "endCall": "Завершить звонок",
+    "mute": "Отключить звук",
+    "unmute": "Включить звук",
+    "camera": "Камера",
+    "chat": "Чат",
+    "fullscreen": "Полный экран"
+  },
+  "coins": {
+    "balance": "Текущий баланс",
+    "addCoins": "Добавить монеты",
+    "packages": "Пакеты",
+    "purchase": "Купить",
+    "bonus": "Бонус",
+    "total": "Всего"
+  },
+  "common": {
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "view": "Просмотр",
+    "search": "Поиск",
+    "filter": "Фильтр",
+    "sort": "Сортировка",
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "success": "Успех",
+    "warning": "Предупреждение",
+    "info": "Информация"
+  }
+}

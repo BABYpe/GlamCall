@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "Plateforme Professionnelle de Chat Vidéo",
+    "description": "Connectez-vous avec de belles modèles du monde entier"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "models": "Modèles",
+    "favorites": "Favoris",
+    "history": "Historique",
+    "coins": "Pièces",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "support": "Support"
+  },
+  "auth": {
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "logout": "Se déconnecter",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "rememberMe": "Se souvenir de moi",
+    "createAccount": "Créer un nouveau compte",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "dontHaveAccount": "Vous n'avez pas de compte ?"
+  },
+  "models": {
+    "online": "En ligne",
+    "offline": "Hors ligne",
+    "pricePerMinute": "Prix/minute",
+    "rating": "Note",
+    "reviews": "Avis",
+    "languages": "Langues",
+    "country": "Pays",
+    "age": "Âge",
+    "startCall": "Commencer l'appel",
+    "addToFavorites": "Ajouter aux favoris",
+    "sendMessage": "Envoyer un message",
+    "viewProfile": "Voir le profil"
+  },
+  "call": {
+    "connecting": "Connexion...",
+    "connected": "Connecté",
+    "duration": "Durée",
+    "cost": "Coût",
+    "balance": "Solde",
+    "endCall": "Terminer l'appel",
+    "mute": "Couper le son",
+    "unmute": "Activer le son",
+    "camera": "Caméra",
+    "chat": "Chat",
+    "fullscreen": "Plein écran"
+  },
+  "coins": {
+    "balance": "Solde actuel",
+    "addCoins": "Ajouter des pièces",
+    "packages": "Forfaits",
+    "purchase": "Acheter",
+    "bonus": "Bonus",
+    "total": "Total"
+  },
+  "common": {
+    "save": "Sauvegarder",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "warning": "Avertissement",
+    "info": "Information"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "Plataforma Profissional de Video Chat",
+    "description": "Conecte-se com belas modelos de todo o mundo"
+  },
+  "navigation": {
+    "home": "Início",
+    "models": "Modelos",
+    "favorites": "Favoritos",
+    "history": "Histórico",
+    "coins": "Moedas",
+    "profile": "Perfil",
+    "settings": "Configurações",
+    "support": "Suporte"
+  },
+  "auth": {
+    "login": "Entrar",
+    "register": "Registrar",
+    "logout": "Sair",
+    "email": "Email",
+    "password": "Senha",
+    "confirmPassword": "Confirmar Senha",
+    "forgotPassword": "Esqueceu a senha?",
+    "rememberMe": "Lembrar de mim",
+    "createAccount": "Criar nova conta",
+    "alreadyHaveAccount": "Já tem uma conta?",
+    "dontHaveAccount": "Não tem uma conta?"
+  },
+  "models": {
+    "online": "Online",
+    "offline": "Offline",
+    "pricePerMinute": "Preço/minuto",
+    "rating": "Avaliação",
+    "reviews": "Avaliações",
+    "languages": "Idiomas",
+    "country": "País",
+    "age": "Idade",
+    "startCall": "Iniciar Chamada",
+    "addToFavorites": "Adicionar aos Favoritos",
+    "sendMessage": "Enviar Mensagem",
+    "viewProfile": "Ver Perfil"
+  },
+  "call": {
+    "connecting": "Conectando...",
+    "connected": "Conectado",
+    "duration": "Duração",
+    "cost": "Custo",
+    "balance": "Saldo",
+    "endCall": "Encerrar Chamada",
+    "mute": "Silenciar",
+    "unmute": "Ativar Som",
+    "camera": "Câmera",
+    "chat": "Chat",
+    "fullscreen": "Tela Cheia"
+  },
+  "coins": {
+    "balance": "Saldo Atual",
+    "addCoins": "Adicionar Moedas",
+    "packages": "Pacotes",
+    "purchase": "Comprar",
+    "bonus": "Bônus",
+    "total": "Total"
+  },
+  "common": {
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "view": "Ver",
+    "search": "Pesquisar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "warning": "Aviso",
+    "info": "Informação"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "GlamCall - منصة المحادثات المرئية",
+  "short_name": "GlamCall",
+  "description": "منصة احترافية للمحادثات المرئية مع العارضات من البلدان العربية",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#C084FC",
+  "orientation": "portrait-primary",
+  "categories": ["social", "entertainment"],
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/screenshot-desktop.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "البحث عن العارضات",
+      "short_name": "بحث",
+      "description": "البحث عن العارضات المتاحات",
+      "url": "/search",
+      "icons": [
+        {
+          "src": "/search-icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "إضافة عملات",
+      "short_name": "عملات",
+      "description": "شراء عملات للمحادثات",
+      "url": "/coins",
+      "icons": [
+        {
+          "src": "/coins-icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

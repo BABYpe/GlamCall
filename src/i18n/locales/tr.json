@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "Profesyonel Video Sohbet Platformu",
+    "description": "Dünyanın her yerinden güzel modellerle bağlantı kurun"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "models": "Modeller",
+    "favorites": "Favoriler",
+    "history": "Geçmiş",
+    "coins": "Jeton",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "support": "Destek"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "logout": "Çıkış Yap",
+    "email": "E-posta",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi Onayla",
+    "forgotPassword": "Şifremi Unuttum?",
+    "rememberMe": "Beni Hatırla",
+    "createAccount": "Yeni Hesap Oluştur",
+    "alreadyHaveAccount": "Zaten hesabınız var mı?",
+    "dontHaveAccount": "Hesabınız yok mu?"
+  },
+  "models": {
+    "online": "Çevrimiçi",
+    "offline": "Çevrimdışı",
+    "pricePerMinute": "Fiyat/dakika",
+    "rating": "Değerlendirme",
+    "reviews": "Yorumlar",
+    "languages": "Diller",
+    "country": "Ülke",
+    "age": "Yaş",
+    "startCall": "Aramayı Başlat",
+    "addToFavorites": "Favorilere Ekle",
+    "sendMessage": "Mesaj Gönder",
+    "viewProfile": "Profili Görüntüle"
+  },
+  "call": {
+    "connecting": "Bağlanıyor...",
+    "connected": "Bağlandı",
+    "duration": "Süre",
+    "cost": "Maliyet",
+    "balance": "Bakiye",
+    "endCall": "Aramayı Sonlandır",
+    "mute": "Sessize Al",
+    "unmute": "Sesi Aç",
+    "camera": "Kamera",
+    "chat": "Sohbet",
+    "fullscreen": "Tam Ekran"
+  },
+  "coins": {
+    "balance": "Mevcut Bakiye",
+    "addCoins": "Jeton Ekle",
+    "packages": "Paketler",
+    "purchase": "Satın Al",
+    "bonus": "Bonus",
+    "total": "Toplam"
+  },
+  "common": {
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "view": "Görüntüle",
+    "search": "Ara",
+    "filter": "Filtrele",
+    "sort": "Sırala",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "warning": "Uyarı",
+    "info": "Bilgi"
+  }
+}

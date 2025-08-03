@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "Plataforma Profesional de Video Chat",
+    "description": "Conecta con hermosas modelos de todo el mundo"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "models": "Modelos",
+    "favorites": "Favoritos",
+    "history": "Historial",
+    "coins": "Monedas",
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "support": "Soporte"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar Sesión",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "rememberMe": "Recordarme",
+    "createAccount": "Crear Nueva Cuenta",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "dontHaveAccount": "¿No tienes una cuenta?"
+  },
+  "models": {
+    "online": "En línea",
+    "offline": "Desconectada",
+    "pricePerMinute": "Precio/minuto",
+    "rating": "Calificación",
+    "reviews": "Reseñas",
+    "languages": "Idiomas",
+    "country": "País",
+    "age": "Edad",
+    "startCall": "Iniciar Llamada",
+    "addToFavorites": "Agregar a Favoritos",
+    "sendMessage": "Enviar Mensaje",
+    "viewProfile": "Ver Perfil"
+  },
+  "call": {
+    "connecting": "Conectando...",
+    "connected": "Conectado",
+    "duration": "Duración",
+    "cost": "Costo",
+    "balance": "Saldo",
+    "endCall": "Terminar Llamada",
+    "mute": "Silenciar",
+    "unmute": "Activar Audio",
+    "camera": "Cámara",
+    "chat": "Chat",
+    "fullscreen": "Pantalla Completa"
+  },
+  "coins": {
+    "balance": "Saldo Actual",
+    "addCoins": "Agregar Monedas",
+    "packages": "Paquetes",
+    "purchase": "Comprar",
+    "bonus": "Bonificación",
+    "total": "Total"
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "warning": "Advertencia",
+    "info": "Información"
+  }
+}

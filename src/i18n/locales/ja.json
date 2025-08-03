@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "プロフェッショナルビデオチャットプラットフォーム",
+    "description": "世界中の美しいモデルとつながる"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "models": "モデル",
+    "favorites": "お気に入り",
+    "history": "履歴",
+    "coins": "コイン",
+    "profile": "プロフィール",
+    "settings": "設定",
+    "support": "サポート"
+  },
+  "auth": {
+    "login": "ログイン",
+    "register": "登録",
+    "logout": "ログアウト",
+    "email": "メール",
+    "password": "パスワード",
+    "confirmPassword": "パスワード確認",
+    "forgotPassword": "パスワードを忘れましたか？",
+    "rememberMe": "ログイン状態を保持",
+    "createAccount": "新しいアカウントを作成",
+    "alreadyHaveAccount": "すでにアカウントをお持ちですか？",
+    "dontHaveAccount": "アカウントをお持ちではありませんか？"
+  },
+  "models": {
+    "online": "オンライン",
+    "offline": "オフライン",
+    "pricePerMinute": "料金/分",
+    "rating": "評価",
+    "reviews": "レビュー",
+    "languages": "言語",
+    "country": "国",
+    "age": "年齢",
+    "startCall": "通話開始",
+    "addToFavorites": "お気に入りに追加",
+    "sendMessage": "メッセージ送信",
+    "viewProfile": "プロフィール表示"
+  },
+  "call": {
+    "connecting": "接続中...",
+    "connected": "接続済み",
+    "duration": "通話時間",
+    "cost": "料金",
+    "balance": "残高",
+    "endCall": "通話終了",
+    "mute": "ミュート",
+    "unmute": "ミュート解除",
+    "camera": "カメラ",
+    "chat": "チャット",
+    "fullscreen": "フルスクリーン"
+  },
+  "coins": {
+    "balance": "現在の残高",
+    "addCoins": "コイン追加",
+    "packages": "パッケージ",
+    "purchase": "購入",
+    "bonus": "ボーナス",
+    "total": "合計"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "edit": "編集",
+    "view": "表示",
+    "search": "検索",
+    "filter": "フィルター",
+    "sort": "並び替え",
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "success": "成功",
+    "warning": "警告",
+    "info": "情報"
+  }
+}

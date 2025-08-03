@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "전문 비디오 채팅 플랫폼",
+    "description": "전 세계의 아름다운 모델들과 연결하세요"
+  },
+  "navigation": {
+    "home": "홈",
+    "models": "모델",
+    "favorites": "즐겨찾기",
+    "history": "기록",
+    "coins": "코인",
+    "profile": "프로필",
+    "settings": "설정",
+    "support": "지원"
+  },
+  "auth": {
+    "login": "로그인",
+    "register": "회원가입",
+    "logout": "로그아웃",
+    "email": "이메일",
+    "password": "비밀번호",
+    "confirmPassword": "비밀번호 확인",
+    "forgotPassword": "비밀번호를 잊으셨나요?",
+    "rememberMe": "로그인 상태 유지",
+    "createAccount": "새 계정 만들기",
+    "alreadyHaveAccount": "이미 계정이 있으신가요?",
+    "dontHaveAccount": "계정이 없으신가요?"
+  },
+  "models": {
+    "online": "온라인",
+    "offline": "오프라인",
+    "pricePerMinute": "분당 가격",
+    "rating": "평점",
+    "reviews": "리뷰",
+    "languages": "언어",
+    "country": "국가",
+    "age": "나이",
+    "startCall": "통화 시작",
+    "addToFavorites": "즐겨찾기 추가",
+    "sendMessage": "메시지 보내기",
+    "viewProfile": "프로필 보기"
+  },
+  "call": {
+    "connecting": "연결 중...",
+    "connected": "연결됨",
+    "duration": "통화 시간",
+    "cost": "비용",
+    "balance": "잔액",
+    "endCall": "통화 종료",
+    "mute": "음소거",
+    "unmute": "음소거 해제",
+    "camera": "카메라",
+    "chat": "채팅",
+    "fullscreen": "전체 화면"
+  },
+  "coins": {
+    "balance": "현재 잔액",
+    "addCoins": "코인 추가",
+    "packages": "패키지",
+    "purchase": "구매",
+    "bonus": "보너스",
+    "total": "총계"
+  },
+  "common": {
+    "save": "저장",
+    "cancel": "취소",
+    "delete": "삭제",
+    "edit": "편집",
+    "view": "보기",
+    "search": "검색",
+    "filter": "필터",
+    "sort": "정렬",
+    "loading": "로딩 중...",
+    "error": "오류",
+    "success": "성공",
+    "warning": "경고",
+    "info": "정보"
+  }
+}

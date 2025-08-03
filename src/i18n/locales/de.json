@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "Professionelle Video-Chat-Plattform",
+    "description": "Verbinden Sie sich mit schönen Models aus der ganzen Welt"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "models": "Models",
+    "favorites": "Favoriten",
+    "history": "Verlauf",
+    "coins": "Münzen",
+    "profile": "Profil",
+    "settings": "Einstellungen",
+    "support": "Support"
+  },
+  "auth": {
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "logout": "Abmelden",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "forgotPassword": "Passwort vergessen?",
+    "rememberMe": "Angemeldet bleiben",
+    "createAccount": "Neues Konto erstellen",
+    "alreadyHaveAccount": "Haben Sie bereits ein Konto?",
+    "dontHaveAccount": "Haben Sie kein Konto?"
+  },
+  "models": {
+    "online": "Online",
+    "offline": "Offline",
+    "pricePerMinute": "Preis/Minute",
+    "rating": "Bewertung",
+    "reviews": "Bewertungen",
+    "languages": "Sprachen",
+    "country": "Land",
+    "age": "Alter",
+    "startCall": "Anruf starten",
+    "addToFavorites": "Zu Favoriten hinzufügen",
+    "sendMessage": "Nachricht senden",
+    "viewProfile": "Profil anzeigen"
+  },
+  "call": {
+    "connecting": "Verbindung wird hergestellt...",
+    "connected": "Verbunden",
+    "duration": "Dauer",
+    "cost": "Kosten",
+    "balance": "Guthaben",
+    "endCall": "Anruf beenden",
+    "mute": "Stumm schalten",
+    "unmute": "Ton einschalten",
+    "camera": "Kamera",
+    "chat": "Chat",
+    "fullscreen": "Vollbild"
+  },
+  "coins": {
+    "balance": "Aktuelles Guthaben",
+    "addCoins": "Münzen hinzufügen",
+    "packages": "Pakete",
+    "purchase": "Kaufen",
+    "bonus": "Bonus",
+    "total": "Gesamt"
+  },
+  "common": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "view": "Anzeigen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort": "Sortieren",
+    "loading": "Lädt...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "warning": "Warnung",
+    "info": "Information"
+  }
+}

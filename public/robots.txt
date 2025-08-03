@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /user/
+Disallow: /model-dashboard/
+
+# Allow important pages
+Allow: /models/
+Allow: /register
+Allow: /login
+
+# Sitemap
+Sitemap: https://glamcall.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1

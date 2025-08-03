@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "Professioneel Video Chat Platform",
+    "description": "Verbind met prachtige modellen van over de hele wereld"
+  },
+  "navigation": {
+    "home": "Home",
+    "models": "Modellen",
+    "favorites": "Favorieten",
+    "history": "Geschiedenis",
+    "coins": "Munten",
+    "profile": "Profiel",
+    "settings": "Instellingen",
+    "support": "Ondersteuning"
+  },
+  "auth": {
+    "login": "Inloggen",
+    "register": "Registreren",
+    "logout": "Uitloggen",
+    "email": "E-mail",
+    "password": "Wachtwoord",
+    "confirmPassword": "Bevestig Wachtwoord",
+    "forgotPassword": "Wachtwoord vergeten?",
+    "rememberMe": "Onthoud mij",
+    "createAccount": "Nieuw account aanmaken",
+    "alreadyHaveAccount": "Heb je al een account?",
+    "dontHaveAccount": "Heb je geen account?"
+  },
+  "models": {
+    "online": "Online",
+    "offline": "Offline",
+    "pricePerMinute": "Prijs/minuut",
+    "rating": "Beoordeling",
+    "reviews": "Beoordelingen",
+    "languages": "Talen",
+    "country": "Land",
+    "age": "Leeftijd",
+    "startCall": "Start Gesprek",
+    "addToFavorites": "Toevoegen aan Favorieten",
+    "sendMessage": "Bericht Versturen",
+    "viewProfile": "Profiel Bekijken"
+  },
+  "call": {
+    "connecting": "Verbinden...",
+    "connected": "Verbonden",
+    "duration": "Duur",
+    "cost": "Kosten",
+    "balance": "Saldo",
+    "endCall": "Gesprek Beëindigen",
+    "mute": "Dempen",
+    "unmute": "Dempen Opheffen",
+    "camera": "Camera",
+    "chat": "Chat",
+    "fullscreen": "Volledig Scherm"
+  },
+  "coins": {
+    "balance": "Huidig Saldo",
+    "addCoins": "Munten Toevoegen",
+    "packages": "Pakketten",
+    "purchase": "Kopen",
+    "bonus": "Bonus",
+    "total": "Totaal"
+  },
+  "common": {
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "view": "Bekijken",
+    "search": "Zoeken",
+    "filter": "Filteren",
+    "sort": "Sorteren",
+    "loading": "Laden...",
+    "error": "Fout",
+    "success": "Succes",
+    "warning": "Waarschuwing",
+    "info": "Informatie"
+  }
+}

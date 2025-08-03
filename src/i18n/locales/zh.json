@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "专业视频聊天平台",
+    "description": "与来自世界各地的美丽模特连接"
+  },
+  "navigation": {
+    "home": "首页",
+    "models": "模特",
+    "favorites": "收藏",
+    "history": "历史",
+    "coins": "金币",
+    "profile": "个人资料",
+    "settings": "设置",
+    "support": "支持"
+  },
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出",
+    "email": "邮箱",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "forgotPassword": "忘记密码？",
+    "rememberMe": "记住我",
+    "createAccount": "创建新账户",
+    "alreadyHaveAccount": "已有账户？",
+    "dontHaveAccount": "没有账户？"
+  },
+  "models": {
+    "online": "在线",
+    "offline": "离线",
+    "pricePerMinute": "每分钟价格",
+    "rating": "评分",
+    "reviews": "评价",
+    "languages": "语言",
+    "country": "国家",
+    "age": "年龄",
+    "startCall": "开始通话",
+    "addToFavorites": "添加到收藏",
+    "sendMessage": "发送消息",
+    "viewProfile": "查看资料"
+  },
+  "call": {
+    "connecting": "连接中...",
+    "connected": "已连接",
+    "duration": "通话时长",
+    "cost": "费用",
+    "balance": "余额",
+    "endCall": "结束通话",
+    "mute": "静音",
+    "unmute": "取消静音",
+    "camera": "摄像头",
+    "chat": "聊天",
+    "fullscreen": "全屏"
+  },
+  "coins": {
+    "balance": "当前余额",
+    "addCoins": "添加金币",
+    "packages": "套餐",
+    "purchase": "购买",
+    "bonus": "奖励",
+    "total": "总计"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "view": "查看",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "warning": "警告",
+    "info": "信息"
+  }
+}

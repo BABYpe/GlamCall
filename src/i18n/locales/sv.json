@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "Professionell Videochat-plattform",
+    "description": "Anslut med vackra modeller från hela världen"
+  },
+  "navigation": {
+    "home": "Hem",
+    "models": "Modeller",
+    "favorites": "Favoriter",
+    "history": "Historik",
+    "coins": "Mynt",
+    "profile": "Profil",
+    "settings": "Inställningar",
+    "support": "Support"
+  },
+  "auth": {
+    "login": "Logga in",
+    "register": "Registrera",
+    "logout": "Logga ut",
+    "email": "E-post",
+    "password": "Lösenord",
+    "confirmPassword": "Bekräfta Lösenord",
+    "forgotPassword": "Glömt lösenord?",
+    "rememberMe": "Kom ihåg mig",
+    "createAccount": "Skapa nytt konto",
+    "alreadyHaveAccount": "Har du redan ett konto?",
+    "dontHaveAccount": "Har du inget konto?"
+  },
+  "models": {
+    "online": "Online",
+    "offline": "Offline",
+    "pricePerMinute": "Pris/minut",
+    "rating": "Betyg",
+    "reviews": "Recensioner",
+    "languages": "Språk",
+    "country": "Land",
+    "age": "Ålder",
+    "startCall": "Starta Samtal",
+    "addToFavorites": "Lägg till i Favoriter",
+    "sendMessage": "Skicka Meddelande",
+    "viewProfile": "Visa Profil"
+  },
+  "call": {
+    "connecting": "Ansluter...",
+    "connected": "Ansluten",
+    "duration": "Varaktighet",
+    "cost": "Kostnad",
+    "balance": "Saldo",
+    "endCall": "Avsluta Samtal",
+    "mute": "Tysta",
+    "unmute": "Slå på ljud",
+    "camera": "Kamera",
+    "chat": "Chatt",
+    "fullscreen": "Helskärm"
+  },
+  "coins": {
+    "balance": "Nuvarande Saldo",
+    "addCoins": "Lägg till Mynt",
+    "packages": "Paket",
+    "purchase": "Köp",
+    "bonus": "Bonus",
+    "total": "Totalt"
+  },
+  "common": {
+    "save": "Spara",
+    "cancel": "Avbryt",
+    "delete": "Ta bort",
+    "edit": "Redigera",
+    "view": "Visa",
+    "search": "Sök",
+    "filter": "Filtrera",
+    "sort": "Sortera",
+    "loading": "Laddar...",
+    "error": "Fel",
+    "success": "Framgång",
+    "warning": "Varning",
+    "info": "Information"
+  }
+}

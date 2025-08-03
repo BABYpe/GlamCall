@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "पेशेवर वीडियो चैट प्लेटफॉर्म",
+    "description": "दुनिया भर की खूबसूरत मॉडल्स से जुड़ें"
+  },
+  "navigation": {
+    "home": "होम",
+    "models": "मॉडल्स",
+    "favorites": "पसंदीदा",
+    "history": "इतिहास",
+    "coins": "सिक्के",
+    "profile": "प्रोफाइल",
+    "settings": "सेटिंग्स",
+    "support": "सहायता"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "logout": "लॉगआउट",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "rememberMe": "मुझे याद रखें",
+    "createAccount": "नया खाता बनाएं",
+    "alreadyHaveAccount": "क्या आपका पहले से खाता है?",
+    "dontHaveAccount": "क्या आपका खाता नहीं है?"
+  },
+  "models": {
+    "online": "ऑनलाइन",
+    "offline": "ऑफलाइन",
+    "pricePerMinute": "मूल्य/मिनट",
+    "rating": "रेटिंग",
+    "reviews": "समीक्षाएं",
+    "languages": "भाषाएं",
+    "country": "देश",
+    "age": "उम्र",
+    "startCall": "कॉल शुरू करें",
+    "addToFavorites": "पसंदीदा में जोड़ें",
+    "sendMessage": "संदेश भेजें",
+    "viewProfile": "प्रोफाइल देखें"
+  },
+  "call": {
+    "connecting": "कनेक्ट हो रहा है...",
+    "connected": "कनेक्टेड",
+    "duration": "अवधि",
+    "cost": "लागत",
+    "balance": "बैलेंस",
+    "endCall": "कॉल समाप्त करें",
+    "mute": "म्यूट",
+    "unmute": "अनम्यूट",
+    "camera": "कैमरा",
+    "chat": "चैट",
+    "fullscreen": "फुल स्क्रीन"
+  },
+  "coins": {
+    "balance": "वर्तमान बैलेंस",
+    "addCoins": "सिक्के जोड़ें",
+    "packages": "पैकेज",
+    "purchase": "खरीदें",
+    "bonus": "बोनस",
+    "total": "कुल"
+  },
+  "common": {
+    "save": "सेव करें",
+    "cancel": "रद्द करें",
+    "delete": "डिलीट करें",
+    "edit": "संपादित करें",
+    "view": "देखें",
+    "search": "खोजें",
+    "filter": "फिल्टर",
+    "sort": "सॉर्ट",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "warning": "चेतावनी",
+    "info": "जानकारी"
+  }
+}

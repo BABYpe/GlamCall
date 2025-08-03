@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "GlamCall",
+    "tagline": "Piattaforma Professionale di Video Chat",
+    "description": "Connettiti con bellissime modelle da tutto il mondo"
+  },
+  "navigation": {
+    "home": "Home",
+    "models": "Modelle",
+    "favorites": "Preferiti",
+    "history": "Cronologia",
+    "coins": "Monete",
+    "profile": "Profilo",
+    "settings": "Impostazioni",
+    "support": "Supporto"
+  },
+  "auth": {
+    "login": "Accedi",
+    "register": "Registrati",
+    "logout": "Esci",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Conferma Password",
+    "forgotPassword": "Password dimenticata?",
+    "rememberMe": "Ricordami",
+    "createAccount": "Crea nuovo account",
+    "alreadyHaveAccount": "Hai già un account?",
+    "dontHaveAccount": "Non hai un account?"
+  },
+  "models": {
+    "online": "Online",
+    "offline": "Offline",
+    "pricePerMinute": "Prezzo/minuto",
+    "rating": "Valutazione",
+    "reviews": "Recensioni",
+    "languages": "Lingue",
+    "country": "Paese",
+    "age": "Età",
+    "startCall": "Inizia Chiamata",
+    "addToFavorites": "Aggiungi ai Preferiti",
+    "sendMessage": "Invia Messaggio",
+    "viewProfile": "Visualizza Profilo"
+  },
+  "call": {
+    "connecting": "Connessione...",
+    "connected": "Connesso",
+    "duration": "Durata",
+    "cost": "Costo",
+    "balance": "Saldo",
+    "endCall": "Termina Chiamata",
+    "mute": "Silenzia",
+    "unmute": "Attiva Audio",
+    "camera": "Fotocamera",
+    "chat": "Chat",
+    "fullscreen": "Schermo Intero"
+  },
+  "coins": {
+    "balance": "Saldo Attuale",
+    "addCoins": "Aggiungi Monete",
+    "packages": "Pacchetti",
+    "purchase": "Acquista",
+    "bonus": "Bonus",
+    "total": "Totale"
+  },
+  "common": {
+    "save": "Salva",
+    "cancel": "Annulla",
+    "delete": "Elimina",
+    "edit": "Modifica",
+    "view": "Visualizza",
+    "search": "Cerca",
+    "filter": "Filtra",
+    "sort": "Ordina",
+    "loading": "Caricamento...",
+    "error": "Errore",
+    "success": "Successo",
+    "warning": "Avviso",
+    "info": "Informazione"
+  }
+}

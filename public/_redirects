@@ -1,0 +1,11 @@
+# Netlify redirects file
+/*    /index.html   200
+
+# API redirects (if using Netlify Functions)
+/api/*  /.netlify/functions/:splat  200
+
+# Language-specific redirects
+/ar/*   /index.html   200
+/es/*   /index.html   200
+/fr/*   /index.html   200
+/de/*   /index.html   200
